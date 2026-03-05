@@ -5,10 +5,12 @@ The data structure:
 
 number of temperature grid, number of density grid
 
-Density
+Density (i think g/cc)
 
-Temperature
+Temperature (K)
 
-pressure, sound velocity
+pressure (I think Pa), sound velocity (m/s)
 
-internal energy, entropy
+internal energy (J/kg), entropy (J/kg/K)
+
+Please double check the units!
